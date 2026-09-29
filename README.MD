@@ -34,4 +34,4 @@ else:
 
 ### Autor e contato
 #### Leandro de Paiva
-#### Github: 
+#### LINKEDIN: https://www.linkedin.com/in/leandrodepaiva/
