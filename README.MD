@@ -34,4 +34,5 @@ else:
 
 ### Autor e contato
 #### Leandro de Paiva
-#### LINKEDIN: https://www.linkedin.com/in/leandrodepaiva/
+#### Github: https://github.com/Leandrodepaiva91/Introducion
+#### Linkedin: https://www.linkedin.com/in/leandrodepaiva/
